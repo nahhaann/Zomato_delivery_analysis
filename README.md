@@ -61,7 +61,8 @@ To analyze Zomato's food delivery data using Python, SQL, and Power BI to uncove
 This project showcases how data analytics can be used to draw meaningful insights from delivery operations, helping businesses optimize resources and enhance customer satisfaction.
 
 
-Dataset : https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset?utm_source=chatgpt.com
-Power BI Dashboard : https://drive.google.com/drive/folders/17z2jLbwh9TW88kMzStaHgBO3P_hcNxQ-
+
+- Dataset : https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset?utm_source=chatgpt.com
+- Power BI Dashboard : https://drive.google.com/drive/folders/17z2jLbwh9TW88kMzStaHgBO3P_hcNxQ-
 
 # Zomato_delivery_analysis
